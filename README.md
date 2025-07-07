@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm M Shahbaz</h1>
 <h3 align="center">🎓 AI/ML Engineer | 🤖 Generative AI Enthusiast | 🧠 Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-wit-shah&label=Profile%20views&color=0e75b6&style=flat" alt="code-wit-shah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-wit-shah" alt="code-wit-shah" /></a> </p>
-
 - 🔭 I’m currently working on **as an AI/ML Engineer**
 
 - 🌱 I’m currently learning about ****LangChain**, **Agentic AI**, and **LLMs Deployment****
