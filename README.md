@@ -8,28 +8,14 @@
 
 - 👯 I specialize in ****Machine Learning**, **Deep Learning**, **NLP**,**CV** and **Generative AI****
 
-- -📊 ML Libraries **`Scikit-learn`, `PyTorch`, `TensorFlow`, `Pandas`, `Numpy`**
+- 📊 ML Libraries **`Scikit-learn`, `PyTorch`, `TensorFlow`, `Pandas`, `Numpy`**
 
-  Tools & Frameworks
-Programming Languages: Python, SQL, JavaScript
+- 
+- ⚙️ Tools **⚙️ Experienced with Python, SQL, JavaScript, Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, Pandas, NumPy, OpenCV, Transformers, SpaCy, NLTK, LangChain, LlamaIndex, AutoGPT, Hugging Face, OpenAI API, FastAPI, Flask, Streamlit, Gradio, Docker, Git, MLflow, Weights & Biases, DVC, MongoDB, PostgreSQL, Pinecone, ChromaDB, FAISS, Google Colab, VS Code, Jupyter Notebook — currently diving deep into Agentic AI, LLMs, Generative AI, MLOps, and Cloud Deployment.**
 
-Machine Learning & Deep Learning: Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM
 
-Data Handling & Analysis: Pandas, NumPy, Matplotlib, Seaborn, OpenCV
 
-NLP & LLMs: SpaCy, NLTK, Transformers (Hugging Face), LangChain, Haystack
 
-Generative AI & Agentic Frameworks: LangChain, AutoGPT, LLamaIndex, OpenAI API, HuggingFace Hub
-
-Model Deployment & APIs: FastAPI, Flask, Streamlit, Gradio
-
-DevOps & MLOps: Docker, Git, GitHub Actions, DVC, MLflow, Weights & Biases (W&B)
-
-Databases & Vector Stores: MongoDB, PostgreSQL, Pinecone, ChromaDB, FAISS
-
-Cloud & Services: Google Colab, AWS S3, Hugging Face Spaces, Render, Vercel
-
-Others: VS Code, Jupyter Notebook, Notion, Trello
 
 <p align="left">
 </p>
