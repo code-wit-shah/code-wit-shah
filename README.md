@@ -10,7 +10,26 @@
 
 - -📊 ML Libraries **`Scikit-learn`, `PyTorch`, `TensorFlow`, `Pandas`, `Numpy`**
 
-- ⚙️ Tools **`Python`, `Docker`, `Git`, `FastAPI`, `Streamlit`, `LangChain`**
+  Tools & Frameworks
+Programming Languages: Python, SQL, JavaScript
+
+Machine Learning & Deep Learning: Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM
+
+Data Handling & Analysis: Pandas, NumPy, Matplotlib, Seaborn, OpenCV
+
+NLP & LLMs: SpaCy, NLTK, Transformers (Hugging Face), LangChain, Haystack
+
+Generative AI & Agentic Frameworks: LangChain, AutoGPT, LLamaIndex, OpenAI API, HuggingFace Hub
+
+Model Deployment & APIs: FastAPI, Flask, Streamlit, Gradio
+
+DevOps & MLOps: Docker, Git, GitHub Actions, DVC, MLflow, Weights & Biases (W&B)
+
+Databases & Vector Stores: MongoDB, PostgreSQL, Pinecone, ChromaDB, FAISS
+
+Cloud & Services: Google Colab, AWS S3, Hugging Face Spaces, Render, Vercel
+
+Others: VS Code, Jupyter Notebook, Notion, Trello
 
 <p align="left">
 </p>
