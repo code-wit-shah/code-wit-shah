@@ -10,7 +10,6 @@
 
 - 📊 ML Libraries **`Scikit-learn`, `PyTorch`, `TensorFlow`, `Pandas`, `Numpy`**
 
-- 
 - ⚙️ Tools **⚙️ Experienced with Python, SQL, JavaScript, Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, Pandas, NumPy, OpenCV, Transformers, SpaCy, NLTK, LangChain, LlamaIndex, AutoGPT, Hugging Face, OpenAI API, FastAPI, Flask, Streamlit, Gradio, Docker, Git, MLflow, Weights & Biases, DVC, MongoDB, PostgreSQL, Pinecone, ChromaDB, FAISS, Google Colab, VS Code, Jupyter Notebook — currently diving deep into Agentic AI, LLMs, Generative AI, MLOps, and Cloud Deployment.**
 
 
