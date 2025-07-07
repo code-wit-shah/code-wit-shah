@@ -12,7 +12,6 @@
 
 - ⚙️ Tools **`Python`, `Docker`, `Git`, `FastAPI`, `Streamlit`, `LangChain`**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
